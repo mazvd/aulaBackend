@@ -1,0 +1,23 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "teste api jsonplaceholder",
+    "dateExported": "2024-03-05T00:58:16.527Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "a3d9cc38-6800-4b8c-b75c-3f8a2dcd3a00",
+            "colId": "f60a9b69-c601-446f-b78e-f5bed638bbf8",
+            "containerId": "",
+            "name": "https://jsonplaceholder.typicode.com/posts",
+            "url": "https://jsonplaceholder.typicode.com/posts",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-03-05T00:01:26.316Z",
+            "modified": "2024-03-05T00:01:26.316Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
