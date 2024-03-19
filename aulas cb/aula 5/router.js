@@ -3,7 +3,7 @@ const express = require('express');
 const router = express.Router();
 
 router.get('/proutos', function(req, res){
-
+    res.json([]);
 })
 router.get('/produtos/:produtoId', function(req, res){
 
